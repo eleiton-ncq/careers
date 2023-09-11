@@ -1,0 +1,45 @@
+INFO - 2023-08-16 20:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-16 22:12:22 --> Undefined array key "gallery1"
+in APPPATH\Views\about.php on line 533.
+ 1 APPPATH\Views\about.php(533): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gallery1"', 'C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php', 533)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\Home.php(31): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->acerca()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 23:02:53 --> Undefined array key "Aniversarios"
+in APPPATH\Views\about.php on line 533.
+ 1 APPPATH\Views\about.php(533): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Aniversarios"', 'C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php', 533)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\Home.php(31): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->acerca()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 23:03:06 --> Undefined array key "Aniversarios"
+in APPPATH\Views\about.php on line 533.
+ 1 APPPATH\Views\about.php(533): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Aniversarios"', 'C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php', 533)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\Home.php(31): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->acerca()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-16 23:03:06 --> Undefined array key "Aniversarios"
+in APPPATH\Views\about.php on line 533.
+ 1 APPPATH\Views\about.php(533): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Aniversarios"', 'C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php', 533)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\NCQ\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\Home.php(31): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->acerca()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
